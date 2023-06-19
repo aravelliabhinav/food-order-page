@@ -1,0 +1,40 @@
+.back {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+    text-align: left;
+}
+
+.yell {
+    color: #323f4b;
+    background-color: #f6c56e;
+    padding: 30px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+
+}
+
+.happy {
+    font-family: "Bree Serif";
+
+
+}
+
+.para {
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.buut {
+    color: #ffffff;
+    color: black;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    width: 138px;
+
+
+
+}
